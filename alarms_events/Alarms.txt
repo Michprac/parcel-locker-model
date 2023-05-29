@@ -1,0 +1,5 @@
+OPERATOR Date: 28.05.2023 Time: 14:55 ALARM:  Awaria w paczkomacie Adres: ul. Skalnicowa 98, 04-862 Warszawa 
+OPERATOR Date: 28.05.2023 Time: 14:55 ALARM:  Awaria w paczkomacie Adres: ul. Zabraniecka 4, 00-364 Warszawa 
+OPERATOR Date: 28.05.2023 Time: 14:59 ALARM:   Proba wlomania sie do systemu(3 razy zle haslo) 
+OPERATOR Date: 28.05.2023 Time: 15:02 ALARM:   Proba wlomania sie do systemu(3 razy zle haslo) 
+OPERATOR Date: 28.05.2023 Time: 15:02 ALARM:   Proba wlomania sie do systemu(3 razy zle haslo) 
