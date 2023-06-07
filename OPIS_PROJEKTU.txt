@@ -1,0 +1,12 @@
+-ALarmy:
+	próba włomania się do systemu przez przycisk Login (3 razy wprowadzone złe hasło)
+	brak miejsca w paczkomacie (CURIER, USER)
+	raport ze wszystkich alarmów
+
+-INFO:
+	wyskakują info z podpowiedziami o krokach
+
+
+serwis- operator.Ślad naprawy. Kwestia serwisanta. serwisant ma podgląd na usterki (bezpośrednio czy operator udostępnia widok). Serwisant przyjmuje usterkę -naprawia - komentuje-zakonczyył. Z ttego czas naprawy.
+
+Informacja operatora odnośnie obciążenia. Wykres intensywności, kiedy najintensywniej, o rozmiarze paczki.
