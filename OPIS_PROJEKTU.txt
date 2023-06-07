@@ -3,6 +3,9 @@
 	brak miejsca w paczkomacie (CURIER, USER)
 	raport ze wszystkich alarmów
 
+-EVENTY:
+	wysyłanie paczki przez klienta;
+
 -INFO:
 	wyskakują info z podpowiedziami o krokach
 
