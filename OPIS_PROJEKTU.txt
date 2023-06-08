@@ -13,3 +13,5 @@
 serwis- operator.Ślad naprawy. Kwestia serwisanta. serwisant ma podgląd na usterki (bezpośrednio czy operator udostępnia widok). Serwisant przyjmuje usterkę -naprawia - komentuje-zakonczyył. Z ttego czas naprawy.
 
 Informacja operatora odnośnie obciążenia. Wykres intensywności, kiedy najintensywniej, o rozmiarze paczki.
+
+Pickup-code example: 000000
