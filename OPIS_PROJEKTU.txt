@@ -14,4 +14,4 @@ serwis- operator.Ślad naprawy. Kwestia serwisanta. serwisant ma podgląd na ust
 
 Informacja operatora odnośnie obciążenia. Wykres intensywności, kiedy najintensywniej, o rozmiarze paczki.
 
-Pickup-code example: 000000
+Pickup-code example: LCK0CODE000000
