@@ -103,3 +103,12 @@ CLIENT Date: 14.06.2023 Time: 22:12 ALARM:  Paczka zostala odebrana MEDIUM ADRES
 CLIENT Date: 14.06.2023 Time: 22:13 ALARM:  ZostaBla umieszczona paczka BIG ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
 CURIER Date: 14.06.2023 Time: 22:14 ALARM:  Paczka zostala umieszczona przez kuriera BIG ADRES: ul. Polczynska 104, 01-302 Warszawa 
 CLIENT Date: 14.06.2023 Time: 22:14 ALARM:  Paczka zostala odebrana BIG ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 22:20 ALARM:  ZostaBla umieszczona paczka MEDIUM ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+CURIER Date: 14.06.2023 Time: 22:20 ALARM:  Paczka zostala umieszczona przez kuriera MEDIUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 22:21 ALARM:  Paczka zostala odebrana MEDIUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 22:25 ALARM:  ZostaBla umieszczona paczka BIG ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+CURIER Date: 14.06.2023 Time: 22:25 ALARM:  Paczka zostala umieszczona przez kuriera BIG ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 22:26 ALARM:  Paczka zostala odebrana BIG ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 22:32 ALARM:  ZostaBla umieszczona paczka BIG ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+CURIER Date: 14.06.2023 Time: 22:33 ALARM:  Paczka zostala umieszczona przez kuriera BIG ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 22:33 ALARM:  Paczka zostala odebrana BIG ADRES: ul. Polczynska 104, 01-302 Warszawa 
