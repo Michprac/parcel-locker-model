@@ -82,3 +82,24 @@ CURIER Date: 14.06.2023 Time: 21:16 ALARM:  Paczka zostala umieszczona przez kur
 CURIER Date: 14.06.2023 Time: 21:16 ALARM:  Paczka zostala umieszczona przez kuriera MINIMUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
 CLIENT Date: 14.06.2023 Time: 21:17 ALARM:  ZostaBla umieszczona paczka MINIMUM ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
 CURIER Date: 14.06.2023 Time: 21:17 ALARM:  Paczka zostala umieszczona przez kuriera MINIMUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 21:40 ALARM:  ZostaBla umieszczona paczka MEDIUM ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+CURIER Date: 14.06.2023 Time: 21:40 ALARM:  Paczka zostala umieszczona przez kuriera MEDIUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 21:42 ALARM:  Paczka zostala odebrana MEDIUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 21:51 ALARM:  ZostaBla umieszczona paczka BIG ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+CURIER Date: 14.06.2023 Time: 21:52 ALARM:  Paczka zostala umieszczona przez kuriera BIG ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 21:52 ALARM:  Paczka zostala odebrana BIG ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 21:58 ALARM:  ZostaBla umieszczona paczka MEDIUM ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+CURIER Date: 14.06.2023 Time: 21:58 ALARM:  Paczka zostala umieszczona przez kuriera MEDIUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 21:59 ALARM:  Paczka zostala odebrana MEDIUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 22:01 ALARM:  ZostaBla umieszczona paczka MINIMUM ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+CURIER Date: 14.06.2023 Time: 22:01 ALARM:  Paczka zostala umieszczona przez kuriera MINIMUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 22:02 ALARM:  Paczka zostala odebrana MINIMUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 22:06 ALARM:  ZostaBla umieszczona paczka MINIMUM ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+CURIER Date: 14.06.2023 Time: 22:07 ALARM:  Paczka zostala umieszczona przez kuriera MINIMUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 22:07 ALARM:  Paczka zostala odebrana MINIMUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 22:11 ALARM:  ZostaBla umieszczona paczka MEDIUM ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+CURIER Date: 14.06.2023 Time: 22:11 ALARM:  Paczka zostala umieszczona przez kuriera MEDIUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 22:12 ALARM:  Paczka zostala odebrana MEDIUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 22:13 ALARM:  ZostaBla umieszczona paczka BIG ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+CURIER Date: 14.06.2023 Time: 22:14 ALARM:  Paczka zostala umieszczona przez kuriera BIG ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 22:14 ALARM:  Paczka zostala odebrana BIG ADRES: ul. Polczynska 104, 01-302 Warszawa 
