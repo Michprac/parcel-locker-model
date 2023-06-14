@@ -59,3 +59,26 @@ CURIER Date: 14.06.2023 Time: 20:19 ALARM:  Paczka zostala umieszczona przez kur
 CLIENT Date: 14.06.2023 Time: 20:21 ALARM:  ZostaBla umieszczona paczka MINIMUM ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
 CURIER Date: 14.06.2023 Time: 20:22 ALARM:  Paczka zostala umieszczona przez kuriera MINIMUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
 CURIER Date: 14.06.2023 Time: 20:22 ALARM:  Paczka zostala umieszczona przez kuriera MINIMUM ADRES: Choose location 
+CLIENT Date: 14.06.2023 Time: 20:28 ALARM:  ZostaBla umieszczona paczka MINIMUM ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+CURIER Date: 14.06.2023 Time: 20:28 ALARM:  Paczka zostala umieszczona przez kuriera MINIMUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 20:33 ALARM:  ZostaBla umieszczona paczka MINIMUM ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+CURIER Date: 14.06.2023 Time: 20:33 ALARM:  Paczka zostala umieszczona przez kuriera MINIMUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 20:38 ALARM:  ZostaBla umieszczona paczka MINIMUM ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+CURIER Date: 14.06.2023 Time: 20:39 ALARM:  Paczka zostala umieszczona przez kuriera MINIMUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 20:40 ALARM:  ZostaBla umieszczona paczka MINIMUM ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+CURIER Date: 14.06.2023 Time: 20:40 ALARM:  Paczka zostala umieszczona przez kuriera MINIMUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 21:00 ALARM:  ZostaBla umieszczona paczka MINIMUM ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+CURIER Date: 14.06.2023 Time: 21:00 ALARM:  Paczka zostala umieszczona przez kuriera MINIMUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CURIER Date: 14.06.2023 Time: 21:01 ALARM:  Paczka zostala umieszczona przez kuriera MINIMUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CURIER Date: 14.06.2023 Time: 21:01 ALARM:  Paczka zostala umieszczona przez kuriera MINIMUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CURIER Date: 14.06.2023 Time: 21:01 ALARM:  Paczka zostala umieszczona przez kuriera MINIMUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 21:07 ALARM:  ZostaBla umieszczona paczka MINIMUM ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+CURIER Date: 14.06.2023 Time: 21:07 ALARM:  Paczka zostala umieszczona przez kuriera MINIMUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CURIER Date: 14.06.2023 Time: 21:07 ALARM:  Paczka zostala umieszczona przez kuriera MINIMUM ADRES: Choose location 
+CLIENT Date: 14.06.2023 Time: 21:12 ALARM:  ZostaBla umieszczona paczka MINIMUM ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+CURIER Date: 14.06.2023 Time: 21:12 ALARM:  Paczka zostala umieszczona przez kuriera MINIMUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 21:16 ALARM:  ZostaBla umieszczona paczka MINIMUM ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+CURIER Date: 14.06.2023 Time: 21:16 ALARM:  Paczka zostala umieszczona przez kuriera MINIMUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CURIER Date: 14.06.2023 Time: 21:16 ALARM:  Paczka zostala umieszczona przez kuriera MINIMUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 14.06.2023 Time: 21:17 ALARM:  ZostaBla umieszczona paczka MINIMUM ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+CURIER Date: 14.06.2023 Time: 21:17 ALARM:  Paczka zostala umieszczona przez kuriera MINIMUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
