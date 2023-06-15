@@ -1,0 +1,3 @@
+CLIENT Date: 15.06.2023 Time: 20:37 ALARM:  ZostaBla umieszczona paczka BIG ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+CLIENT Date: 15.06.2023 Time: 20:38 ALARM:  ZostaBla umieszczona paczka MINIMUM ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+CURIER Date: 15.06.2023 Time: 20:39 ALARM:  Paczka zostala umieszczona przez kuriera MINIMUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
