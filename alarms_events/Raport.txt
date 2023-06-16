@@ -1,0 +1,2 @@
+OPERATOR Date: 16.06.2023 Time: 11:09 RAPORT:  Paczkomat jest u|ywany najmniej i najwiecej odpowiednio w dniach:  MIN PON MAX PT ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+OPERATOR Date: 16.06.2023 Time: 11:16 RAPORT OGOLNY:  Paczkomat najwiecej u|ywany jest na ulicy:  Choose location WYPELNIENIE PACZKOMATU 0/15 

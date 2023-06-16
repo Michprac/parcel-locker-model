@@ -4,3 +4,8 @@ SERVICEMAN Date: 16.06.2023 Time: 01:42 EVENT:  REPAIR ADRES: ul. Arkuszowa 109,
 SERVICEMAN Date: 16.06.2023 Time: 01:43 EVENT:  REPAIR ADRES: ul. Arkuszowa 109, 01-934 Warszawa  Serwisant przeglada paczkomat, service state, komentarz do przegladu:   
 SERVICEMAN Date: 16.06.2023 Time: 01:43 EVENT:  REPAIR ADRES: ul. Arkuszowa 109, 01-934 Warszawa  Serwisant skonczyl przeglad sukcesywnie. Work state  TIME: 0 : 0 : 11 
 SERVICEMAN Date: 16.06.2023 Time: 01:49 ALARM:   OVERVIEW simulacja. START zgloszenia do servisanta  ADRES: Choose location 
+SERVICEMAN Date: 16.06.2023 Time: 11:12 ALARM:   FAULT simulacja. START zgloszenia do servisanta  ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+SERVICEMAN Date: 16.06.2023 Time: 11:13 EVENT:  REPAIR ADRES: ul. Arkuszowa 109, 01-934 Warszawa  Serwisant przyjal zgloszenie naprawy paczkomatu  
+SERVICEMAN Date: 16.06.2023 Time: 11:13 EVENT:  REPAIR ADRES: ul. Arkuszowa 109, 01-934 Warszawa  Serwisant zaczal naprawe paczkomatu, service state  
+SERVICEMAN Date: 16.06.2023 Time: 11:14 EVENT:  REPAIR ADRES: ul. Arkuszowa 109, 01-934 Warszawa  Serwisant naprawia paczkomat, service state, komentarz do naprawy:  SOmething 
+SERVICEMAN Date: 16.06.2023 Time: 11:14 EVENT:  REPAIR ADRES: ul. Arkuszowa 109, 01-934 Warszawa  Serwisant skonczyl naprawe sukcesywnie. Work state  TIME: 0 : 0 : 16 

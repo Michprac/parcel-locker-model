@@ -5,3 +5,7 @@ CLIENT Date: 16.06.2023 Time: 00:29 ALARM:  ZostaBla umieszczona paczka BIG ADRE
 CURIER Date: 16.06.2023 Time: 00:55 ALARM:  Paczka zostala umieszczona przez kuriera BIG ADRES: ul. Polczynska 104, 01-302 Warszawa 
 CLIENT Date: 16.06.2023 Time: 01:12 ALARM:  Paczka zostala odebrana BIG ADRES: ul. Polczynska 104, 01-302 Warszawa 
 CLIENT Date: 16.06.2023 Time: 01:48 ALARM:  ZostaBla umieszczona paczka MINIMUM ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+CLIENT Date: 16.06.2023 Time: 11:07 ALARM:  ZostaBla umieszczona paczka BIG ADRES: ul. Arkuszowa 109, 01-934 Warszawa 
+CURIER Date: 16.06.2023 Time: 11:09 ALARM:  Paczka zostala umieszczona przez kuriera BIG ADRES: ul. Polczynska 104, 01-302 Warszawa 
+CLIENT Date: 16.06.2023 Time: 11:11 ALARM:  Paczka zostala odebrana MINIMUM ADRES: ul. Polczynska 104, 01-302 Warszawa 
+SERVICEMAN Date: 16.06.2023 Time: 11:14 EVENT:  GENERATED ADRES: SOMETHING_TEXT 
