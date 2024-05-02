@@ -1,4 +1,4 @@
-# parcel-locker-model
+# Parcel locker simulation in LabView
 This is a project of a parcel-locker system. This project it is SCADA that was implemented in the LabVIEW environment.
 The system allows three users to register and log in: the operator, the service technician and the customer(client). Everyone has a separate view. The system is close to the real-world, although it is not perfect.
 
